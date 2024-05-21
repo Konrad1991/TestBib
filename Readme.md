@@ -6,6 +6,7 @@ bibliography: references.bib
 
 @powell2022
 
-\cite{powell2022}
+
+[@powell2022]
 
 # References
